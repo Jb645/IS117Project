@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-color: white;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 100%;
+    max-width: 1920px;
+    margin: 0 auto;
+    background-color: #E7E7E7; /*take it out later*/
+}
+
+/* the styles for the Header*/
+header {
+    padding-top: 2em;
+    padding-bottom: 3.5em;
+    background: #474747;
+
+}
+header a{
+    padding-left: 1%;
+}
+
+header img {
+    padding-left: 1%;
+    padding-right: 1%;
+    float: left;
+
+}
+header h2{
+    font-size: 170%;
+    color: white;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+footer div{
+    text-align: center;
+}
