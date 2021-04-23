@@ -88,15 +88,16 @@ main, aside{
     margin-top: 1em;
 }
 aside{
-    width: 16%;
+    width: 20%;
 }
 aside img{
     width: 100%!important;
     float: left;
+    margin-left: 1%;
 }
 main{
-    width: 83%;
-    margin-left: 17%;
+    width: 79%;
+    margin-left: 21%;
     margin-bottom: 1%;
 }
 main p, main h2{
